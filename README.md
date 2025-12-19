@@ -1,2 +1,1 @@
-# cat.type.2.windows
-cat type command to windows
+make a disket 1.44 mb disket to you operation system

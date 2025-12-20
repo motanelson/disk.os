@@ -1,1 +1,1 @@
-make a disket 1.44 mb disket to you operation system
+make a disket 720k disket to you operation system
